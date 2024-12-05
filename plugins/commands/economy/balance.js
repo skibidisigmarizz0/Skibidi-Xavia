@@ -11,7 +11,7 @@ const langData = {
     "en_US": {
         "balance.userNoData": "User not found/not ready",
         "balance.selfNoData": "Your data is not ready",
-        "balance.result": "Balance: {money}XC"
+        "balance.result": "Balance: ₱{money}"
     },
     "vi_VN": {
         "balance.userNoData": "Người dùng không tìm thấy/chưa sẵn sàng",

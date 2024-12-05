@@ -16,7 +16,7 @@ const langData = {
         "daily.selfNoData": "Your data is not ready",
         "daily.alreadyClaimed":
             "You have already claimed your daily, you can claim again in {time}",
-        "daily.successfullyClaimed": "You have claimed your daily reward of {amount}XC",
+        "daily.successfullyClaimed": "You have claimed your daily reward of ₱{amount}",
         "daily.failed": "Failed",
     },
     vi_VN: {

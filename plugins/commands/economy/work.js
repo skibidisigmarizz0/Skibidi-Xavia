@@ -20,7 +20,7 @@ const langData = {
     en_US: {
         "work.selfNoData": "Your data is not ready",
         "work.alreadyWorked": "You have already worked, you can work again in {time}",
-        "work.successfullyWorked": "You have worked and earned {amount}XC",
+        "work.successfullyWorked": "You have worked and earned ₱{amount}",
         "work.failed": "Failed",
     },
     vi_VN: {

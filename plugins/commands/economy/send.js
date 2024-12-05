@@ -15,9 +15,9 @@ const langData = {
     en_US: {
         missingMention: "You need to mention someone to send money to them",
         invalidAmount: "Invalid amount",
-        lowerThanMin: "Minimum amount is {minAmount} XC",
-        notEnoughMoney: "You don't have enough money, you need {amount} XC more",
-        sendSuccessFee: "You have sent {amount} XC to {name} (fee: {fee} XC)",
+        lowerThanMin: "Minimum amount is ₱{minAmount}",
+        notEnoughMoney: "You don't have enough money, you need ₱{amount} more",
+        sendSuccessFee: "You have sent ₱{amount} to {name} (fee: ₱{fee})",
         error: "An error occurred, please try again later",
     },
     vi_VN: {

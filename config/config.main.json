@@ -15,15 +15,15 @@
     },
     "LANGUAGE": "en_US",
     "LOG_LEVEL": 1,
-    "MODERATORS": [
-        "100008907121641"
+    "MODERATOR": [
+  "61559166740425",       
     ],
     "ABSOLUTES": [
-        "100008907121641"
+        "61559166740425"
     ],
-    "NAME": "Xavia",
+    "NAME": "Bot",
     "PREFIX": "x",
-    "timezone": "Asia/Ho_Chi_Minh",
+    "timezone": "Asia/Manila",
     "REFRESH": "43200000",
     "MAX_BALANCE_LIMIT": "-1"
 }
