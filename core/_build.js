@@ -5,7 +5,7 @@ import { writeFileSync } from "fs";
 import { resolve as resolvePath } from "path";
 import logger from "./var/modules/logger.js";
 
-import login from "@xaviabot/fca-unofficial";
+import login from "ryuu-fca-api";
 import startServer from "./dashboard/server/app.js";
 import handleListen from "./handlers/listen.js";
 import { isGlitch, isReplit } from "./var/modules/environments.get.js";
