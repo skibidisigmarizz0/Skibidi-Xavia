@@ -1,4 +1,2 @@
-Free to Fork 
-
-Updated
-*package.json
+ADDED CMDS
+STILL FIXING FCA
